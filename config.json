@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Lubov Davydkina"
+  },
+  "text": {
+    "more": "Граф представляет связанную по темам область моих профессиональных интересов. Граф построен на основе тем и подтем книг, которые находятся в моей библиотеке и которые я собираюсь прочитать в ближайшие 5 лет. ",
+    "intro": "Граф представляет связанную по темам область моих профессиональных интересов. Граф построен на основе тем и подтем книг, которые находятся в моей библиотеке и которые я собираюсь прочитать в ближайшие 5 лет. ",
+    "title": "Область профессиональных интересов"
+  },
+  "legend": {
+    "edgeLabel": "Связи между темми",
+    "colorLabel": "0",
+    "nodeLabel": "Темы"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
